@@ -1,0 +1,12 @@
+{
+  "name": "loja-api",
+  "version": "2.0.0",
+  "description": "API REST refatorada em arquitetura em camadas (Rotas, Controllers, Services, Dados)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
